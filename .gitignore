@@ -1,0 +1,11 @@
+Animations/
+Models/
+Materials/
+Textures/
+Sounds/
+Resources/
+Plugins/
+Metadata/
+Prefabs/
+
+*.meta
