@@ -1,5 +1,7 @@
 # Client Introduction
 
+<video src="showcase.mpv" controls width="600"></video>
+
 This is the branch for the FPS game client that stopped It's
 development in 2023
 
