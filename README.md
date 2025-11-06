@@ -1,6 +1,6 @@
 # Client Introduction
 
-[Watch the video](https://raw.githubusercontent.com/zaixrx/multiplayer-fps-game/client/showcase.mp4)
+[Watch the showcase](https://youtu.be/9NbWEp4F1qw)
 
 This is the branch for the FPS game client that stopped It's
 development in 2023
