@@ -1,6 +1,6 @@
 # Client Introduction
 
-<video src="showcase.mpv" controls width="600"></video>
+[Watch the video](https://raw.githubusercontent.com/zaixrx/multiplayer-fps-game/client/showcase.mp4)
 
 This is the branch for the FPS game client that stopped It's
 development in 2023
